@@ -24,7 +24,7 @@
 ![concert-this](images/concert.png)
 ![movie-this](images/movie.png)
 ![movie-nothing](images/mrnobody.png)
-![spotify-this-song](images/untitled.png)
+![spotify-this-song](images/Untitled.png)
 ![spotify-nothing](images/the-sign.png)
 ![random.txt](images/random.png)
 ![do-what-it-says](images/do-what.png)
